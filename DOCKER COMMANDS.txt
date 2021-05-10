@@ -2,7 +2,7 @@
 # Introduction to Docker by Serhii
 
 
-Install Docker on Ubuntu 18.04
+Install Docker on Ubuntu 20.04
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
 sudo apt update
